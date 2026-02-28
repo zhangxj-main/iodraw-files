@@ -41,13 +41,13 @@
           <mxGeometry x="-840" y="280" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-16" value="工具函数" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="290" width="70" height="60" as="geometry" />
+          <mxGeometry x="-615" y="290" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-17" value="构建配置" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-690" y="290" width="70" height="60" as="geometry" />
+          <mxGeometry x="-525" y="290" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-18" value="购物车" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="290" width="70" height="60" as="geometry" />
+        <mxCell id="3zW76zUc4abTS6v-kVaw-18" value="样式主题" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="290" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-840" y="-10" width="840" height="80" as="geometry" />
