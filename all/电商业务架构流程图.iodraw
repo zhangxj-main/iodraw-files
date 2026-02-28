@@ -25,7 +25,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-840" y="180" width="840" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-8" value="&lt;font style=&quot;font-size: 15px&quot;&gt;业&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;4&quot;&gt;务&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;4&quot;&gt;网&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;4&quot;&gt;关&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-8" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;数&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;层&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-840" y="180" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-9" value="POS网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
